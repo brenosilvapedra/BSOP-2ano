@@ -1,0 +1,10 @@
+h1{
+    background-color: purple;
+    color: black;
+    display:flex;
+    justify-content: space-around;
+}
+
+.ul{
+    display: inline-block;
+}
